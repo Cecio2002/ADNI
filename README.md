@@ -61,9 +61,9 @@ Clinical Characterisation of Alzheimer Disease
 
 ## Authors
 Marco Cecilia marco.ceci.2002@gmail.com
-Giorgia Arena 
-Cecilia Galbiati 
-Elena Fusco 
+Giorgia Arena giorgia.arena@mail.polimi.it
+Cecilia Galbiati cecilia.galbiati@mail.polimi.it
+Elena Fusco elena.fusco@mail.polimi.it
 
 
 
